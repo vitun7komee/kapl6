@@ -1,0 +1,61 @@
+M
+The Voice
+Harper Collins
+15
+45 2022
+top-magazines.com
+---------------------------------
+B
+A Killer's Mind
+Thomas & Mercer
+407
+Mike Omer
+Detective
+1
+---------------------------------
+B
+Fahrenheit 451
+Thomas & Mercer
+312
+Ray Bradbury
+Dystopian
+1
+---------------------------------
+M
+Vogue
+Scholastic
+43
+79 2016
+vogue.net
+---------------------------------
+B
+Giant's Bread
+Thomas & Mercer
+476
+Agatha Christie
+Detective
+1
+---------------------------------
+M
+Cosmopolitan
+Hearst Corporation
+163
+73 2023
+cosmopolitan.com
+---------------------------------
+B
+The Big Four
+Thomas & Mercer
+573
+Agatha Christie
+Detective
+0
+---------------------------------
+B
+Bones
+London Society
+395
+Arthur Conan Doyle
+Detective
+0
+---------------------------------
